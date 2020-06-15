@@ -33,7 +33,7 @@ def update_features(font):
     lig = font.createChar(-1, 'LIG')
     lig.width = font['space'].width
     with tempfile.NamedTemporaryFile(suffix='.fea') as f:
-        f.write(fea_code)
+        f.write(bytes(fea_code, 'utf-8'))
         f.seek(0)
         font.mergeFeature(f.name)
 
