@@ -1,0 +1,16 @@
+StartChar: dnblock
+Encoding: 9604 9604 709
+Width: 1060
+VWidth: 1918
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1055 633 m 1
+ 5 633 l 1
+ 5 -480 l 1
+ 1055 -480 l 1
+ 1055 633 l 1
+EndSplineSet
+Validated: 1
+EndChar

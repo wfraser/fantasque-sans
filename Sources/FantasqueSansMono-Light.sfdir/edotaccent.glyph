@@ -1,0 +1,16 @@
+StartChar: edotaccent
+Encoding: 279 279 217
+Width: 960
+VWidth: 32
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+526 1228 m 1
+ 526 1403 l 1
+ 342 1403 l 1
+ 342 1228 l 1
+ 526 1228 l 1
+EndSplineSet
+Refer: 4 101 N 1 0 0 1 0 0 3
+EndChar

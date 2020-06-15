@@ -1,0 +1,21 @@
+StartChar: underscoredbl
+Encoding: 8215 8215 530
+Width: 1060
+VWidth: 41
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+977 -109 m 1
+ 80.3509142095 -109 l 1
+ 77.6667036831 -211 l 1
+ 977 -211 l 1
+ 977 -109 l 1
+977 -382 m 1
+ 80.3509142095 -382 l 1
+ 77.6667036831 -484 l 1
+ 977 -484 l 1
+ 977 -382 l 1
+EndSplineSet
+Validated: 1
+EndChar

@@ -1,0 +1,21 @@
+StartChar: SF430000
+Encoding: 9552 9552 662
+Width: 1060
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1055 745 m 1
+ 5 745 l 1
+ 5 629 l 1
+ 1055 629 l 1
+ 1055 745 l 1
+1055 414 m 1
+ 5 414 l 1
+ 5 298 l 1
+ 1055 298 l 1
+ 1055 414 l 1
+EndSplineSet
+Validated: 1
+EndChar

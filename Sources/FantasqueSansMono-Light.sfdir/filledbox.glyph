@@ -1,0 +1,16 @@
+StartChar: filledbox
+Encoding: 9632 9632 736
+Width: 1060
+VWidth: 1918
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+945 965 m 1
+ 115 965 l 1
+ 115 135 l 1
+ 945 135 l 1
+ 945 965 l 1
+EndSplineSet
+Validated: 1
+EndChar

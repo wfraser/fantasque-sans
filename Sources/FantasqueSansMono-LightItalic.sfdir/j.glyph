@@ -1,0 +1,16 @@
+StartChar: j
+Encoding: 106 106 10
+Width: 960
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+872.08203125 1226.26660156 m 1
+ 905.548828125 1401.38574219 l 1
+ 723.24609375 1403.73339844 l 1
+ 689 1228.61328125 l 1
+ 872.08203125 1226.26660156 l 1
+EndSplineSet
+Refer: 330 567 N 1 0 0 1 0 0 2
+EndChar
